@@ -12,6 +12,9 @@ Busco sempre aprender e criar soluções desafiadoras em minha jornada como prog
 ## Projetos
 - [App Banco Java](https://github.com/Nic0llas/AppBanco.Java): Um aplicativo de banco simples com interface de linha de comando.
 
+## IDEs que uso:
+
+
 ## Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/nicollas-araujo/)
 
