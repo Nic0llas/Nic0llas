@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**Nic0llas/Nic0llas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor apaixonado por **Java**, **RPGs**, **Elden Ring**, **The Witcher**, e **Dark Souls**.
+Busco sempre aprender e criar soluções desafiadoras em minha jornada como programador.
 
-Here are some ideas to get you started:
+## Habilidades
+- **Java**: Programação orientada a objetos, sistemas, automação.
+- **Python**: Scripts de automação e análise de dados.
+- **GitHub**: Controle de versão e colaboração em projetos.
+- **HTML**: Estruturação de páginas web e conteúdo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- [App Banco Java](https://github.com/Nic0llas/AppBanco.Java): Um aplicativo de banco simples com interface de linha de comando.
+
+## Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/nicollas-araujo/)
