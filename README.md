@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-Desenvolvedor apaixonado por **Java**, **RPGs**, **Elden Ring**, **The Witcher**, e **Dark Souls**.
-Busco sempre aprender e criar soluções desafiadoras em minha jornada como programador.
+Sou Nicollas um estudante de **ADS** sou fascinado por **Escrever**, **RPGs**, **Elden Ring**, **The Witcher**, e **Dark Souls**.
+Busco sempre aprender e criar soluções desafiadoras em minha jornada como programador, aprendendo com as dificuldade desses jogos.
 
 ## Habilidades
 - **Java**: Programação orientada a objetos, sistemas, automação.
