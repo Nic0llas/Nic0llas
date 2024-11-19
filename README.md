@@ -14,6 +14,7 @@ Busco sempre aprender e criar soluções desafiadoras em minha jornada como prog
 
 ## IDEs que uso:
 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/nicollas-araujo/)
