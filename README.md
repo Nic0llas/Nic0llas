@@ -14,3 +14,7 @@ Busco sempre aprender e criar soluções desafiadoras em minha jornada como prog
 
 ## Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/nicollas-araujo/)
+
+![Java GIF](./1323-java-code-language.gif)
+
+
