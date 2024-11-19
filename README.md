@@ -8,6 +8,7 @@ Busco sempre aprender e criar soluções desafiadoras em minha jornada como prog
 - **Python**: Scripts de automação e análise de dados.
 - **GitHub**: Controle de versão e colaboração em projetos.
 - **HTML**: Estruturação de páginas web e conteúdo.
+- PHP: Desenvolvimento web dinâmico.
 
 ## Projetos
 - [App Banco Java](https://github.com/Nic0llas/AppBanco.Java): Um aplicativo de banco simples com interface de linha de comando.
